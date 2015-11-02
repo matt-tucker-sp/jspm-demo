@@ -1,0 +1,1 @@
+module.exports = require("npm:angular@1.3.15/index");
