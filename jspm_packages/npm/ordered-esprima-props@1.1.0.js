@@ -1,0 +1,1 @@
+module.exports = require("npm:ordered-esprima-props@1.1.0/ordered-esprima-props");
